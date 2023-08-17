@@ -1,0 +1,17 @@
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\bin\Debug\net7.0-windows\AppliGestionDiplomes.exe
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\bin\Debug\net7.0-windows\AppliGestionDiplomes.deps.json
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\bin\Debug\net7.0-windows\AppliGestionDiplomes.runtimeconfig.json
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\bin\Debug\net7.0-windows\AppliGestionDiplomes.dll
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\bin\Debug\net7.0-windows\AppliGestionDiplomes.pdb
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.csproj.GenerateResource.cache
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.AssemblyInfoInputs.cache
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.AssemblyInfo.cs
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.csproj.CoreCompileInputs.cache
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.dll
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\refint\AppliGestionDiplomes.dll
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.pdb
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.genruntimeconfig.cache
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\ref\AppliGestionDiplomes.dll
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.fntDefaut.resources
+C:\Users\baudo\source\repos\gestion-diplomes\AppliGestionDiplomes\obj\Debug\net7.0-windows\AppliGestionDiplomes.Form2.resources
